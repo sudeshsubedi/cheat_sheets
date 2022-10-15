@@ -1,0 +1,146 @@
+{
+  "main": {
+    "id": "12f128cd0c39ae7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f95ae5caf8740825",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b9807a331667fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_science_and_ml/Numpy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f4b7f42ca2d437a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c47101136db233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "967b047d22f9cf47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb140a51e64ea670",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d4a7ea4ad62f5cb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52ad7a3412e4aac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd41e4fa7f12983c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd8f39fda7b27240",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data_science_and_ml/Numpy.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b26f099d6ab541f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data_science_and_ml/Numpy.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa39d3d602051583",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c10b8381a9c56157",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data_science_and_ml/Numpy.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0b9807a331667fed",
+  "lastOpenFiles": [
+    "data_science_and_ml/Numpy.md"
+  ]
+}
