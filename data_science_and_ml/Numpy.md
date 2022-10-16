@@ -73,3 +73,38 @@ array([[1.+0.j, 2.+0.j],
        [3.+0.j, 4.+0.j]])
 ```
 
+- from functions zeros, ones, empty. zeros makes array of zeros, ones make array of 1 and empty makes array of random value. By default the type is float64 but can be changed explicitely.
+```python
+>>> a = np.zeros((2, 3))
+>>> a
+array([[0., 0., 0.],
+	   [0., 0., 0.]])
+>>> b = np.ones((3, 4), dtype='int64')
+>>> b
+array([[1, 1, 1, 1],
+	   [1, 1, 1, 1],
+	   [1, 1, 1, 1]])
+>>> c = np.empty((2, 3))
+array([[3.73603959e-262, 6.02658058e-154, 6.55490914e-260],
+       [5.30498948e-313, 3.14673309e-307, 1.00000000e+000]])
+```
+
+- create sequence of numbers with arange function
+```python
+>>> a = np.arange(10, 30, 5) # (start, end, step)
+>>> a
+array([10, 15, 20, 25])
+>>> b = np.arange(0, 2, 0.4)
+>>> b
+array([0., 0.4, 0.8, 1.2, 1.6])
+```
+
+- use linspace to create array with fixed numbers as it takes number of element as argument
+```python
+>>> a = linspace(0, 2, 9)
+>>> a
+array([0.  , 0.25, 0.5 , 0.75, 1.  , 1.25, 1.5 , 1.75, 2.  ])
+>>> x = np.linspace(0, 2 * pi, 100)
+>>> f = np.sin(x)
+```
+
